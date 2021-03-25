@@ -15,7 +15,7 @@ namespace RepetitionExampleGrp1 {
 
 
             while ( counter < number) {
-                System.Console.WriteLine(input);
+                System.Console.WriteLine(input + " | " + counter);
                 
                 // counter = counter + 1
                 counter++;
