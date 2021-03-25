@@ -1,0 +1,16 @@
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\RepetitionExampleGrp1.exe
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\RepetitionExampleGrp1.deps.json
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\RepetitionExampleGrp1.runtimeconfig.json
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\RepetitionExampleGrp1.runtimeconfig.dev.json
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\RepetitionExampleGrp1.dll
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\ref\RepetitionExampleGrp1.dll
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\bin\Debug\net5.0\RepetitionExampleGrp1.pdb
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.csprojAssemblyReference.cache
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.AssemblyInfoInputs.cache
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.AssemblyInfo.cs
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.dll
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\ref\RepetitionExampleGrp1.dll
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.pdb
+C:\Users\anguyen\Projects\RepetitionExampleGrp1\obj\Debug\net5.0\RepetitionExampleGrp1.genruntimeconfig.cache
