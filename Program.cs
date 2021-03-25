@@ -1,4 +1,5 @@
-﻿using System;
+// useless comment added 
+using System;
 
 namespace RepetitionExampleGrp1 {
     class Program {
